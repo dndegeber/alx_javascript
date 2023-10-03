@@ -1,0 +1,1 @@
+This is my readme which entails Closure and Lexical Scoping in Javascript.
